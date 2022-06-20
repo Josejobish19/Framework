@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="9" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-18T15:29:16 IST" name="Default suite" finished-at="2022-06-18T15:29:56 IST" duration-ms="40209">
+    <groups>
+    </groups>
+    <test started-at="2022-06-18T15:29:16 IST" name="Default test" finished-at="2022-06-18T15:29:56 IST" duration-ms="40209">
+      <class name="com.swagLabTest.SwaglabTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.swagLabTest.SwaglabTest@2c1b194a]" started-at="2022-06-18T15:29:16 IST" name="launch" finished-at="2022-06-18T15:29:36 IST" duration-ms="20597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="getMethods()[pri:1, instance:com.swagLabTest.SwaglabTest@2c1b194a]" started-at="2022-06-18T15:29:36 IST" name="getMethods" finished-at="2022-06-18T15:29:37 IST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethods -->
+        <test-method signature="navigationCommands()[pri:2, instance:com.swagLabTest.SwaglabTest@2c1b194a]" started-at="2022-06-18T15:29:37 IST" name="navigationCommands" finished-at="2022-06-18T15:29:47 IST" duration-ms="9958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationCommands -->
+        <test-method signature="checkMouseAction()[pri:4, instance:com.swagLabTest.SwaglabTest@2c1b194a]" started-at="2022-06-18T15:29:47 IST" name="checkMouseAction" finished-at="2022-06-18T15:29:50 IST" duration-ms="2732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMouseAction -->
+        <test-method signature="testDragDrop()[pri:5, instance:com.swagLabTest.SwaglabTest@2c1b194a]" started-at="2022-06-18T15:29:50 IST" name="testDragDrop" finished-at="2022-06-18T15:29:50 IST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragDrop -->
+        <test-method signature="testdropSourceToTarget()[pri:6, instance:com.swagLabTest.SwaglabTest@2c1b194a]" started-at="2022-06-18T15:29:50 IST" name="testdropSourceToTarget" finished-at="2022-06-18T15:29:51 IST" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdropSourceToTarget -->
+        <test-method signature="testSendKeys()[pri:7, instance:com.swagLabTest.SwaglabTest@2c1b194a]" started-at="2022-06-18T15:29:51 IST" name="testSendKeys" finished-at="2022-06-18T15:29:52 IST" duration-ms="1023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSendKeys -->
+        <test-method signature="testclearAndsendkeys()[pri:8, instance:com.swagLabTest.SwaglabTest@2c1b194a]" started-at="2022-06-18T15:29:52 IST" name="testclearAndsendkeys" finished-at="2022-06-18T15:29:53 IST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclearAndsendkeys -->
+        <test-method signature="testAlert()[pri:9, instance:com.swagLabTest.SwaglabTest@2c1b194a]" started-at="2022-06-18T15:29:53 IST" name="testAlert" finished-at="2022-06-18T15:29:56 IST" duration-ms="2964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAlert -->
+      </class> <!-- com.swagLabTest.SwaglabTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
